@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;javafx-mysql/JAVAFX DataBase/src/application/Main.java&apos; to &apos;Main25.java&apos;" description="Rename resource &apos;Main.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="JAVAFX DataBase/src/application/Main.java" name="Main25.java" stamp="1496242879289" updateReferences="true"/>
+</session>

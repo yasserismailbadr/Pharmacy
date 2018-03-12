@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;application.ReadData&apos; to &apos;InsertData&apos;&#x0D;&#x0A;- Original project: &apos;Pharmacy&apos;&#x0D;&#x0A;- Original element: &apos;application.ReadData&apos;&#x0D;&#x0A;- Renamed element: &apos;application.InsertData&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ReadData&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;application{ReadData.java[ReadData" matchStrategy="1" name="InsertData" qualified="false" references="true" similarDeclarations="false" stamp="1496318737277" textual="false" version="1.0"/>
+</session>
